@@ -6,7 +6,6 @@ from spotipy.oauth2 import SpotifyClientCredentials
 app = Flask(__name__)
 CORS(app)
 
-# Replace these with your app's credentials
 SPOTIPY_CLIENT_ID = 'f79bd87d0a9143369035ad4ee79b1461'
 SPOTIPY_CLIENT_SECRET = '2d18e255211e4dcf8f65dc10a70f72e9'
 

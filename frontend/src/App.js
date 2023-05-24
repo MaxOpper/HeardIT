@@ -4,7 +4,7 @@ import SearchTracks from '/home/max/heardit/HeardIT/frontend/src/SearchTracks.js
 const App = () => {
     return (
         <div>
-            <h1>Music Search App</h1>
+            <h1>HeardIT</h1>
             <SearchTracks />
         </div>
     );
